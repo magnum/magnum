@@ -22,10 +22,10 @@ Lately I spend most of my time where Rails meets AI: self-hosted MCP servers, ag
 - ⌨️ **[aicli](https://github.com/magnum/aicli)** - Natural language to shell commands, as a Ruby gem
 - 🚂 **[railsapp](https://github.com/magnum/railsapp)** - My Rails 8 starter template: Kamal, PostgreSQL, Solid Queue/Cache/Cable
 - 📈 **[ppapi](https://github.com/magnum/ppapi)** - Ruby API that reads Portfolio Performance files and returns account balances
-- 🎵 **[sngr](https://github.com/magnum/sngr)** - Browser-based song identifier, like Shazam but on the web
 - 🖼️ **[infinite-canvas](https://github.com/magnum/infinite-canvas)** - WebGL infinite image gallery with distortion and zoom
 - 📄 **[buildapage](https://github.com/magnum/buildapage)** - Vue 3 + Vite template that builds a page from a public Google Sheet
 - ✍️ **[antoniomolinari-astro](https://github.com/magnum/antoniomolinari-astro)** - My blog, rebuilt in Astro from a 20-year-old WordPress export
+... and many more, nearly one each day. 🙃
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
