@@ -4,6 +4,8 @@
 
 # Hi, I'm Antonio 👋
 
+### _Magnum, per gli amici_ 🌺
+
 **Web developer, CTO, teacher.** 25 years of building for the web, mostly with Ruby on Rails.
 
 I run [Incode](https://incode.it), a small web studio in Italy, and I have taught Web Design at a fine arts academy since 2013.
