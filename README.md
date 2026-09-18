@@ -25,8 +25,8 @@ Lately I spend most of my time where Rails meets AI: self-hosted MCP servers, ag
 - **[ppapi](https://github.com/magnum/ppapi)** - Ruby API that reads Portfolio Performance files and returns account balances
 - **[infinite-canvas](https://github.com/magnum/infinite-canvas)** - WebGL infinite image gallery with distortion and zoom
 - **[buildapage](https://github.com/magnum/buildapage)** - Vue 3 + Vite template that builds a page from a public Google Sheet
-- **[antoniomolinari-astro](https://github.com/magnum/antoniomolinari-astro)** - My blog, rebuilt in Astro from a 20-year-old WordPress export
-... and many more, nearly one each day. 🙃
+- **[antoniomolinari-astro](https://github.com/magnum/antoniomolinari-astro)** - My blog, rebuilt in Astro from a 20-year-old WordPress export  
+... and many more, nearly one each day 🙃
 <!-- PROJECTS:END -->
 
 ## What I'm Doing
