@@ -16,16 +16,16 @@ Lately I spend most of my time where Rails meets AI: self-hosted MCP servers, ag
 
 <!-- PROJECTS:START -->
 - 🔌 **[emcp](https://github.com/magnum/emcp)** - Self-hosted MCP host on Rails 8: API keys, OAuth 2.1, one place for all my MCP servers; connectors so far: Basecamp, HEY, Google Workspace, WhatsApp, Bluesky, X (Twitter), Toggl Track, FattureInCloud, 1Password, Home Assistant, TeslaMate
-- 📅 **[flycal](https://flycal.it)** - See when you are free or busy using Google Calendar as the source of truth: Rails web app, HTTP API, MCP server and the `flycal-cli` gem
-- 💰 **bdgtr** - Rails app to manage banking transactions and budgets (private for now)
-- 🖥️ **[mcpme](https://github.com/magnum/mcpme)** - Ruby MCP server with OAuth 2.1 to run shell commands on your own machine
-- 🎩 **[higgins](https://github.com/magnum/higgins)** - macOS menubar app that improves selected text with AI (OpenAI or Ollama)
-- ⌨️ **[aicli](https://github.com/magnum/aicli)** - Natural language to shell commands, as a Ruby gem
-- 🚂 **[railsapp](https://github.com/magnum/railsapp)** - My Rails 8 starter template: Kamal, PostgreSQL, Solid Queue/Cache/Cable
-- 📈 **[ppapi](https://github.com/magnum/ppapi)** - Ruby API that reads Portfolio Performance files and returns account balances
-- 🖼️ **[infinite-canvas](https://github.com/magnum/infinite-canvas)** - WebGL infinite image gallery with distortion and zoom
-- 📄 **[buildapage](https://github.com/magnum/buildapage)** - Vue 3 + Vite template that builds a page from a public Google Sheet
-- ✍️ **[antoniomolinari-astro](https://github.com/magnum/antoniomolinari-astro)** - My blog, rebuilt in Astro from a 20-year-old WordPress export
+- **[flycal](https://flycal.it)** - See when you are free or busy using Google Calendar as the source of truth: Rails web app, HTTP API, MCP server and the `flycal-cli` gem
+- **bdgtr** - Rails app to manage banking transactions and budgets (private for now)
+- **[mcpme](https://github.com/magnum/mcpme)** - Ruby MCP server with OAuth 2.1 to run shell commands on your own machine
+- **[higgins](https://github.com/magnum/higgins)** - macOS menubar app that improves selected text with AI (OpenAI or Ollama)
+- **[aicli](https://github.com/magnum/aicli)** - Natural language to shell commands, as a Ruby gem
+- **[railsapp](https://github.com/magnum/railsapp)** - My Rails 8 starter template: Kamal, PostgreSQL, Solid Queue/Cache/Cable
+- **[ppapi](https://github.com/magnum/ppapi)** - Ruby API that reads Portfolio Performance files and returns account balances
+- **[infinite-canvas](https://github.com/magnum/infinite-canvas)** - WebGL infinite image gallery with distortion and zoom
+- **[buildapage](https://github.com/magnum/buildapage)** - Vue 3 + Vite template that builds a page from a public Google Sheet
+- **[antoniomolinari-astro](https://github.com/magnum/antoniomolinari-astro)** - My blog, rebuilt in Astro from a 20-year-old WordPress export
 ... and many more, nearly one each day. 🙃
 <!-- PROJECTS:END -->
 
