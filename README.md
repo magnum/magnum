@@ -4,13 +4,11 @@
 
 # Hi, I'm Antonio 👋
 
-### _Magnum, per gli amici_ 🌺
+## aka Magnum, to my friends
 
-**Web developer, CTO, teacher.** 25 years of building for the web, mostly with Ruby on Rails.
+Web developer, CTO, teacher w/ +25 years of building for the web, I run [Incode](https://incode.it), a small web studio in Italy, and I have taught Web Design at a fine arts academy since 2013.
 
-I run [Incode](https://incode.it), a small web studio in Italy, and I have taught Web Design at a fine arts academy since 2013.
-
-I have been writing Ruby and Rails for about 20 years and never found a good reason to stop: same language, same framework, still my first choice for almost everything I build.
+I have been writing **Ruby and Rails** for about 20 years and never found a good reason to stop: same language, same framework, still my first choice for almost everything I build.
 
 Lately I spend most of my time where Rails meets AI: self-hosted MCP servers, agent tooling, and small utilities that scratch my own itch.
 
